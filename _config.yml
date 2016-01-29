@@ -18,7 +18,7 @@ api_token: # Enter API token here
 contact:
     phone: 932 50 540
     emergency:
-    email: contact@yoursite.com
+    email: kontakt@chemiczka.pl
     address: ul. Geodetów, <br> Warszawa, Ochota
 
 # Opening hours

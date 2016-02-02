@@ -12,7 +12,7 @@ hero:
     hero_description: Cześć, mam na imię Karolina. Jestem chemiczką. Chętnie pomogę Ci zrozumieć chemię.
 
 # Contact form
-api_token: # Enter API token here
+api_token: 5bb747dc04a03d7397ee040d4caf495e
 
 # Contact info
 contact:

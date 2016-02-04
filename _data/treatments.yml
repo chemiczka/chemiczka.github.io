@@ -1,23 +1,23 @@
+- icon: icon-flask
+  title: Egzamin gimnazjalny
+  description: Przygotowanie do egzaminu gimnazjalnego z części przyrodniczej
+
 - icon: icon-user-md
-  title: Invisible braces
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Matura
+  description: Przygotowanie do matury z chemii na poziomie podstawowym i rozszerzonym
 
 - icon: icon-diamond
-  title: Cosmetic Dentistry
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
-
-- icon: icon-flask
-  title: Stain removal
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+  title: Kolokwium, egzamin
+  description: Przygotowanie do egzaminu lub kolokwium na studiach chemicznych lub medycznych
 
 - icon: icon-globe
-  title: Dentures
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Doraźna pomoc
+  description: Pomoc w zrozumieniu zagadnień poruszanych obecnie w szkole lub na uczelni
 
 - icon: icon-ambulance
-  title: Emergency Calls
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Urodziny z eksperymentami
+  description: Eksperymenty chemiczne podczas przyjęcia Twojego dziecka
 
 - icon: icon-bed
-  title: Sedation
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?
+  title: Eksperymenty chemiczne
+  description: Cykl spotkań z dziećmi w szkole, na których prezentowane są różne eksperymenty chemiczne

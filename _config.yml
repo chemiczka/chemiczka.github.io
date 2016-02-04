@@ -8,8 +8,8 @@ logo_url: svg/min/logo.svg
 # Hero
 hero: 
     hero_img: hero.jpg
-    hero_title: chemiczka.pl
-    hero_description: Cześć, mam na imię Karolina. Jestem chemiczką. Chętnie pomogę Ci zrozumieć chemię.
+    hero_title: Jak mogę Ci pomóc?
+    hero_description: Cześć, mam na imię Karolina i jestem chemiczką. Chętnie pomogę Ci zrozumieć chemię.
 
 # Contact form
 api_token: 5bb747dc04a03d7397ee040d4caf495e

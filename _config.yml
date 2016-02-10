@@ -1,6 +1,6 @@
 # Site settings
 title: chemiczka.pl | Korepetycje z chemii
-description: "Korepetycje z chemii, eksperymenty chemiczne"
+description: "Korepetycje z chemii - Warszawa, Ochota"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chemiczka.pl" # the name of your domain
 logo_url: svg/min/logo.svg
